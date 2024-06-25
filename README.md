@@ -1,3 +1,11 @@
+<img src="https://i.imgur.com/5rcJwUe.gif" alt="security lock globe spin" style="width: 100%; max-width: 800px; height: 20%;">
+
+
+
+
+
+
+
 
 # Hi 👋, I'm Bukuntu 
 
