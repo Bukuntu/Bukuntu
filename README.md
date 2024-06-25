@@ -10,7 +10,7 @@ Cybersecurity, for me, is not just a career path— **It is a lifestyle!** 😎 
 ## About Me
 🎓 Transitioning diligently into cybersecurity after a Master's degree in Bioscience Engineering
 
-💼 Experienced data analyst with a keen interest in information security, and regulatory compliance
+💼 Experienced data analyst with a keen interest in data protection, information security, and regulatory compliance
 
 🔐 Dedicated to making the digital world safer for everyone.
 
