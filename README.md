@@ -29,7 +29,7 @@ Cybersecurity, for me, is not just a career path— **It is a lifestyle!** 😎 
 
 ## Interests
 
-During free time, you'll sure find me binge watching an interesting documentaries, or bench-pressing at the gym 🏋️‍♂️
+During free time, you'll sure find me binge watching an interesting documentary, or bench-pressing at the gym 🏋️‍♂️
 
 
 ## Let's Connect
