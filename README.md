@@ -1,7 +1,5 @@
 
 
-![alt text](Images/security-lock.gif)
-
 
 # Hi 👋, I'm Bukuntu 
 
