@@ -1,3 +1,6 @@
+<img src="https://i.imgur.com/suiIoWv.gif" alt="Matrix Digital Rain" style="width: 100%; max-width: 800px;">
+
+
 # Hi 👋, I'm Bukuntu 
 
 **Bukuntu?** 🤔 Sounds like Ubuntu, right? 
