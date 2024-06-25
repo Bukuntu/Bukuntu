@@ -8,7 +8,7 @@ Well ..a childhood's graphical fascination for **Ubuntu's** (Linux distro) color
 Cybersecurity, for me, is not just a career path— **It is a lifestyle!** 😎 I am committed to securing digital spaces while embracing the associated challenges and charting innovative solutions.
 
 ## About Me
-🎓 Transitioning diligently into cybersecurity after a Master's degree in Bioscience Engineering
+🚀 Transitioning diligently into cybersecurity after a 🎓Master's degree in Bioscience Engineering
 
 💼 Experienced data analyst with a keen interest in data protection, information security, and regulatory compliance
 
@@ -24,7 +24,7 @@ Cybersecurity, for me, is not just a career path— **It is a lifestyle!** 😎 
 
 ## Interests
 
-During free time, you'll sure find me binge watching an interesting documentary, or bench-pressing at the gym 🏋️‍♂️
+During free time, you'll sure find me binge watching an interesting documentaries, or bench-pressing at the gym 🏋️‍♂️
 
 
 ## Let's Connect
