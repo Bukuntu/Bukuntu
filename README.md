@@ -5,7 +5,7 @@
 
 **Bukuntu?** 🤔 Sounds like Ubuntu, right? 
 
-Well ..a childhood's graphical fascination for **Ubuntu's** (Linux distro) colorful compact-disk jacket 💽 has now morphed into a full-fledged career where I safeguard systems 🔐 by leveraging **Ubuntu's** 💻 robustness and much more.
+Well ..a childhood's fascination for **Ubuntu's** (Linux distro) colorful compact-disk jacket 💽 has now morphed into a full-fledged career where I safeguard systems 🔐 by leveraging **Ubuntu's** 💻 robustness and much more.
 
 
 Cybersecurity, for me, is not just a career path— **It is a lifestyle!** 😎 I am committed to securing digital spaces while embracing the associated challenges and charting innovative solutions.
