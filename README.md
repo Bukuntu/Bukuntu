@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/suiIoWv.gif" alt="Matrix Digital Rain" style="width: 100%; max-width: 800px;">
+<img src="https://i.imgur.com/suiIoWv.gif" alt="security lock globe spin" style="width: 100%; max-width: 800px;">
 
 
 # Hi 👋, I'm Bukuntu 
