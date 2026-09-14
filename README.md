@@ -22,7 +22,7 @@ Here, I share tools that simplify carbon accounting and sustainability reporting
 
 💡 Working on **OpenSSME**, a project that turns VSME disclosure requirements into understandable questions and maps responses to the corresponding disclosures.
 
-📚 Built carbon accounting tools (including [decarB](https://github.com/Bukuntu/decarB-GHG-Engine), whilst expanding my knowledge of EU sustainability landscape.
+📚 Built carbon accounting tools including [decarB](https://github.com/Bukuntu/decarB-GHG-Engine), whilst expanding my knowledge of EU sustainability landscape.
 
 ## Interests
 
