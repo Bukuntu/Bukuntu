@@ -1,50 +1,58 @@
-
-
-
 # Hi 👋, I'm Bukuntu 
 
-**Bukuntu?** 🤔 Sounds like Ubuntu, right? 
+My work began beneath the surface (quite literally 😊 ), studying soils, environmental processes, and their influence on climate. Today, I bring that understanding of environmental systems to corporate sustainability, helping organisations make sense of emission data, navigate reporting requirements, and improve climate disclosures.
 
-Well ..a childhood's fascination for **Ubuntu's** (Linux distro) colorful compact-disk jacket 💽 has now morphed into a full-fledged career where I safeguard systems 🔐 by leveraging **Ubuntu's** 💻 robustness and much more.
+Here, I share tools that simplify carbon accounting and sustainability reporting.
 
-
-Cybersecurity, for me, is not just a career path— **It is a lifestyle!** 😎 I am committed to securing digital spaces while embracing the associated challenges and charting innovative solutions.
 
 ## About Me
-🚀 Transitioning diligently into cybersecurity after a 🎓Master's degree in Bioscience Engineering
 
-💼 Experienced data analyst with a keen interest in data protection, information security, and regulatory compliance
+🎓 Master's degree in Soils and Global Change with focus on climate change & environmental sustainability
 
-🔐 Dedicated to making the digital world safer for everyone.
+📊 Experienced in using R and Python to analyse data and support evidence-based decisions.
+
+🌍 Working knowledge of GHG protocol, ISO 14064, and reporting standards (GRI, CSRD/ESRS) with a focus on interpreting disclosure requirements and identifying relevant data needs
+
+
 
 
 ## What I Do
-🏗 Currently putting my shoulders to the wheels on challenging projects
 
-🧠 Advancing skillsets in defense systems, incidence response, and compliance
+🌿 Developing **[EvolvCarbon](https://evolvcarbon.org)**, an initiative that supports climate literacy and avails sustainability tools for SMEs.
 
-📈 Take pride in staying up-to-date with the latest IT trends
+💡 Working on **OpenSSME**, a project that turns VSME disclosure requirements into understandable questions and maps responses to the corresponding disclosures.
+
+📚 Built carbon accounting tools (including [decarB](https://github.com/Bukuntu/decarB-GHG-Engine), whilst expanding my knowledge of EU sustainability landscape.
 
 ## Interests
 
-During free time, you'll sure find me binge watching an interesting documentary, or bench-pressing at the gym 🏋️‍♂️
-
+Outside work, you'll usually find me watching a documentary or spending time at the gym🏋️
 
 ## Let's Connect
+
 📧 Feel free to reach out for discussions and collaborations  <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bukunmi-ojedokun/)
+
+🌐 [EvolvCarbon](https://evolvcarbon.org) · ✉️ [Email](mailto:info@evolvcarbon.org)
 
 ## Tech Stack
 
+<p align="left">
+
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40">
-     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40">
-     <img src="https://i.imgur.com/XMuUnRw.png" alt="Python" width="40" height="40">
-     <img src="https://i.imgur.com/Jv1QVpi.png" alt="Python" width="40" height="40">
-     <img src="https://i.imgur.com/QIzL1vL.png" alt="Python" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40">
+  &nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel" title="Excel" width="40" height="40">
+  &nbsp;
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" title="Power BI" width="40" height="40">
+  &nbsp;
+  <img src="https://cdn.brandfetch.io/idTITTe4hP/w/316/h/316/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="GRI" title="GRI Standards" width="50" height="40">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/qgis/589632" alt="QGIS" title="QGIS" width="40" height="40">
+  &nbsp;
+  <img src="https://www.google.com/s2/favicons?domain=iso.org&sz=128" alt="ISO" title="ISO 14064" width="40" height="40">
+  &nbsp;
+  <img src="https://cdn.brandfetch.io/idz0Um_7q8/w/180/h/47/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="GHG Protocol" title="GHG Protocol" width="90" height="40">
+  &nbsp;
+  
 </p>
