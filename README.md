@@ -32,7 +32,7 @@ Outside work, you'll usually find me watching a documentary or spending time at 
 
 📧 Feel free to reach out for discussions and collaborations  <br>
 
-🌐 [EvolvCarbon](https://evolvcarbon.org) · ✉️ [Email](mailto:info@evolvcarbon.org)
+✉️ [Email](mailto:info@evolvcarbon.org)
 
 ## Tech Stack
 
